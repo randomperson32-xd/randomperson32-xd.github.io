@@ -61,12 +61,6 @@ p {
     margin: 15px 0;
 }
 
-.profile-info {
-    font-style: italic;
-    color: #888;
-    font-weight: 300;
-}
-
 .links a, .fav-songs-link {
     display: inline-block;
     margin: 5px 10px;
@@ -100,7 +94,7 @@ p {
     margin-bottom: 5px;
 }
 
-.ebs-desc {
+.desc {
     font-size: 0.9em;
     color: #888;
     font-weight: 300;
